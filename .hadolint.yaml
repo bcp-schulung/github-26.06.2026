@@ -1,0 +1,2 @@
+ignore:
+  - DL3007  # nginx:alpine is intentionally a floating tag for this project
